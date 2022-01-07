@@ -2,9 +2,9 @@
 
 ## 1.1 推荐系统
 
-| 标题                             | 年份 | 期刊 | 引用量 | 官方代码 | 进度 | 笔记 | 复现 |
-| -------------------------------- | ---- | ---- | ------ | -------- | ---- | ---- | ---- |
-| Spectral Collaborative Filtering | 2018 | -    | 96     | TF       |      |      |      |
+| 索引 | 标题                                                         | 年份 | 期刊   | 引用量 | 官方代码  | 进度     | 复现 |
+| ---- | ------------------------------------------------------------ | ---- | ------ | ------ | --------- | -------- | ---- |
+| 123  | Dual Graph Convolutional Networks for Graph-Based Semi-Supervised Classification | 2018 | SIGKDD | 9612   | TF, Torch | 读懂方法 | DGL  |
 
 
 
@@ -13,7 +13,7 @@
 | 标题                                  | 年份 | 期刊   | 引用量 | 官方代码 | 进度 | 笔记 | 复现                                                         |
 | ------------------------------------- | ---- | ------ | ------ | -------- | ---- | ---- | ------------------------------------------------------------ |
 | Heterogeneous Graph Neural Network    | 2019 | SIGKDD | 296    | Torch    |      |      |                                                              |
-| Heterogeneous Graph Attention Network | 2019 | WWW    | 568    | Both     | 完成 | √    | [Torch](https://github.com/hcmdgh/Paper-Reproduction/tree/main/HAN) |
+| Heterogeneous Graph Attention Network | 2019 | WWW    | 568    | Both     | 完成 | √    | [DGL](https://github.com/hcmdgh/Paper-Reproduction/tree/main/HAN) |
 
 
 
@@ -25,6 +25,8 @@
 | Dual Graph Convolutional Networks for Graph-Based Semi-Supervised Classification | 2018 | WWW    | 190    | -        | 读懂方法 | √    |      |
 | LINE: Large-scale Information Network Embedding              | 2015 | WWW    | 3836   | Both     |          |      |      |
 | How Powerful are Graph Neural Networks?                      | 2019 | ICLR   | 2015   | Both     |          |      |      |
+| Modeling Relational Data with Graph Convolutional Networks   | 2018 | -      | 1755   |          |          |      |      |
+|                                                              |      |        |        |          |          |      |      |
 
 
 
@@ -49,5 +51,5 @@
 | JSCN: Joint Spectral Convolutional Network for Cross Domain Recommendation | 2019 | C类   | 14     | TF       | 读懂方法 | √    |                                                              |
 | Transfer Learning for Deep Learning on Graph-Structured Data | 2017 | AAAI  | 40     | -        |          |      |                                                              |
 | Supervised Domain Adaptation using Graph Embedding           | 2020 | ICPR  | 5      | TF       |          |      |                                                              |
-| Semantic-Specific Hierarchical Alignment Network for Heterogeneous Graph Adaptation | 2021 | PKDD  | -      | Torch    | 完成     | √    | [Torch](https://github.com/hcmdgh/Paper-Reproduction/tree/main/HGA) |
+| Semantic-Specific Hierarchical Alignment Network for Heterogeneous Graph Adaptation | 2021 | PKDD  | -      | Torch    | 完成     | √    | [DGL](https://github.com/hcmdgh/Paper-Reproduction/tree/main/HGA) |
 | Domain Adaptive Classification on Heterogeneous Information Networks | 2020 | IJCAI | 10     | Torch    |          |      |                                                              |
